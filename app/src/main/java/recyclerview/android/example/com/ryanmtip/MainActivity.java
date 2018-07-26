@@ -62,14 +62,16 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onResponse(String response) {
                         try {
-                            JSONObject jsonObject = new JSONObject();
+                            JSONObject jsonObject = new JSONObject(response);
                             JSONArray array = jsonObject.getJSONArray("Medical Terminology");
 
                             for (int i = 0; i < array.length(); i++) {
-                                JSONObject o = array.getJSONObject(i);
+                                JSONObject jo = array.getJSONObject(i);
                                 ListItem item = new ListItem(
-                                        o.getString("name"),
-                                        o.getString("definition")
+                                        jo.getString("name"),
+                                        jo.getString("definition"),
+                                        jo.getString("symptoms"),
+                                        jo.getString("treatment")
                                 );
                                 listItems.add(item);
                             }
@@ -85,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
                 new Response.ErrorListener() {
                     @Override
                     public void onErrorResponse(VolleyError error) {
-
+                        Toast.makeText(MainActivity.this, "Error" + error.toString(), Toast.LENGTH_SHORT).show();
 
                     }
                 });

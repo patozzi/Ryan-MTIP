@@ -34,6 +34,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder>{
         ListItem listItem = listItems.get(position);
         holder.textViewHead.setText(listItem.getHead());
         holder.textViewDesc.setText(listItem.getDesc());
+        holder.textViewSym.setText(listItem.getSym());
+        holder.textViewTreat.setText(listItem.getTreat());
 }
     @Override
     public int getItemCount() {
@@ -44,11 +46,15 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder>{
 
         public TextView textViewHead;
         public TextView textViewDesc;
+        public TextView textViewSym;
+        public TextView textViewTreat;
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
 
-            textViewHead = (TextView) itemView.findViewById(R.id.textViewHead);
-            textViewDesc = (TextView) itemView.findViewById(R.id.textViewDesc);
+            textViewHead = (TextView) itemView.findViewById(R.id.MedicalTerm);
+            textViewDesc = (TextView) itemView.findViewById(R.id.Definition);
+            textViewSym  = (TextView) itemView.findViewById(R.id.symptoms);
+            textViewTreat  = (TextView) itemView.findViewById(R.id.treatment);
 
         }
     }
