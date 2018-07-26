@@ -1,0 +1,175 @@
+{
+  "error": false,
+  "Medical Terminology": [
+  {
+    "name": "Acute Kidney Failure (Acute Renal Failure)",
+    "definition": "Kidneys become unable to filter waste products from the blood, causing wastes to accumulate and the bloods chemical makeup may become unbalanced."
+  },
+  {
+    "name": "Alzheimer’s Disease",
+    "definition": "A chronic neurodegenerative disease that usually starts slowly and worsens over time. It is the cause of 60–70% of cases of dementia"
+  },
+  {
+    "name": "Amyotrophic Lateral Sclerosis (ALS) or Lou Gehrig’s Disease",
+    "definition":"Progressive nervous system (neurological) disease that destroys nerve cells and causes disability. The nerve cells gradually break down and die. It affects the control of muscles needed for speech, eating and breathing. Fatal disease."
+  },
+    {
+    "name": "Aortic Valve Stenosis",
+    "definition":"Heart’s aortic valve narrows which prevents the valve from opening fully, which reduces of blocks blood flow from the heart into the main artery"
+ },  
+    {
+    "name": "Aphasia",
+    "definition": "Conditions that leaves an individual with the inability to communicate efficiently. It can affect the ability to speak, write and understand."
+  }, 
+    {
+    "name": "Aspiration",
+    "definition": "Breathing in a foreign object into the airway causing chocking."
+  }, 
+  {
+    "name": "Atrial Fibrillation (AFib or AF) ",
+    "definition": "Irregular heart rate that is often rapid and increases the risk of stroke, heart failure and other hear related complications."
+  },
+  {
+    "name": "Bladder Cancer",
+    "definition": "One of the most common cancers, mostly occurs in males. Begins in the cells in the inside of the bladder."
+  }, 
+  {
+    "name": "Breast Cancer",
+    "definition": "Cancer forms in the cells of the breast. Second most common cancer in woman, behind skin cancer."
+  },
+  {
+    "name": "Cerebrovascular Accident (CVA)",
+    "definition": "Medical term for a stroke. Stroke- blood flow to a part of the brain is stopped by a blockage or the rupture of a blood vessel. Ischemic stroke- blood clot blocks a blood vessel and prevents blood and oxygen from getting to a part of the brain. Embolic stroke- clot forms somewhere else in the body and gets lodged in a blood vessel in the brain. Thrombotic stroke- clot forms in a blood vessel in the brain. Hemorrhagic stroke- blood vessel ruptures or hemorrhages and prevents blood from getting to the brain."
+  },
+    {
+    "name": "Chronic Kidney Disease (Chronic Kidney Failure)",
+    "definition": "Gradual loss of kidney function"
+  },
+    {
+    "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "definition": "Chronic inflammatory lung disease that causes obstructed airflow from the lungs. Caused by long term exposure to irritating gases or particulate matter, most often from cigarettes."
+  },
+    {
+    "name": "Congestive Heart Failure (CHF)",
+    "definition": "Heart is inadequate in pumping blood throughout the body"
+  },
+    {
+    "name":"Cor Pulmonale",
+    "definition": "High blood pressure in the pulmonary arteries (Pulmonary Hypertension) found in the right ventricle of the heart, also called right-sided heart failure.  Causes the right ventricle to enlarge and pump blood less effectively."
+  },
+    {
+    "name": "Coronary Artery (atherosclerotic) heart disease",
+    "definition": "Most common type of heart disease, occurs when there is a buildup of cholesterol plague inside the artery walls"
+  },
+    {
+    "name": "Deep Vein Thrombosis (DVT)",
+    "definition": "Blood clot (thrombus) forms in one or more of the deep veins in the body, usually in the legs."
+  },
+    {
+    "name": "Dementia",
+    "definition": "Dementia is not a specific disease. It's an overall term that describes a group of symptoms"
+  },
+    {
+    "name": "Diastolic Dysfunction",
+    "definition": "The ventricles do not relax properly and become stiff which causes the blood flow to minimize and causes blood to back up in the organs"
+  },
+    {
+    "name": "Edema",
+    "definition": "Swelling caused by excess fluid trapped in the body tissue"
+  },
+    {
+    "name": "Gastrointestinal Bleeding (GI Bleed)",
+    "definition": "Due to a condition in your digestive tract commonly the stomach or colon."
+  },
+    {
+    "name": "Heart (Cardiovascular) Disease (CVD)",
+    "definition": "Narrowing of the coronary arteries diminishes blood supply to the heart. Hardening of the arteries."
+  },
+    {
+    "name": "Hypogammaglobulinemia",
+    "definition": "Immune disorder that reduces all types of gamma globulin including antibodies."
+  },
+    {
+    "name": "Leukemia",
+    "definition": "Cancer of the body’s blood forming tissues and includes the bone marrow and lymphatic system."
+  },
+    {
+    "name": "Lewy body dementia",
+    "definition": "Second most common progressive dementia after Alzheimer’s disease. Protein deposits (lewy bodies) develop in nerve cells in the brain regions involved in thinking, memory, movement."
+  },
+    {
+    "name": "Lipoma",
+    "definition": "Slow growing fatty lump between skin and underlying muscle layer. Not cancer and usually harmless"
+  },
+    {
+    "name": "Liver Cancer",
+    "definition": "Hepatocellular carcinoma (most common liver cancer), intrahepatic cholangiocarcinoma, hepatoblastoma."
+  },
+    {
+    "name": "Lung Cancer",
+    "definition": "Number 1 cause of cancer related deaths among men and women. Two types small cell lung cancers (SCLC) and non-small cell lung cancers (NSCLC)."
+  },
+    {
+    "name": "Malignant Neoplasm",
+    "definition": "A cancerous tumor, or abnormal growth of cells. Neoplasm cells invade healthy tissue and metastasize (spread) to other areas of the body. Staging is scored using a TNM classification. T (1,2,3,4) based on the size/extent of invasion. N (0,1,2,3) indicates the extent of lymph node involvement. M (0,1) indicates whether distant metastases are present."
+  },
+    {
+    "name": "Metastasis (Mets)",
+    "definition": "A development of secondary malignant growths away from the primary cancer site."
+  },
+    {
+    "name": "Multiple Sclerosis",
+    "definition": "Disabling disease located in the central nervous system (brain and spinal cord). Immune system attacks the protective sheath (myelin) and causes the nerves to deteriorate."
+  },
+    {
+    "name": "Myelodysplastic Syndromes",
+    "definition": "Group of disorders caused by poorly formed blood cells or blood cells that do not work properly, due to a complication in the bone marrow."
+  },
+    {
+    "name": "Pancreatic Cancer",
+    "definition": "Cancer begins in the tissues of the pancreas, the pancreas releases enzymes that aid digestion and hormones that manage blood sugar levels. Usually spreads rapidly to nearby organs."
+  },
+    {
+    "name": "Parkinson’s Disease",
+    "definition": "Progressive disorder of the nervous system that affects movement, 5 stages. Usually starts with a small tremor in one hand. Often causes the body to become stiff and slows down movement."
+  },
+    {
+    "name": "Peripheral Artery Disease or Peripheral Vascular Disease (PAD)",
+    "definition": "Circulatory problem where narrowed arteries reduce blood flow to the limbs. Extremities (usually legs) don’t receive enough blood flow"
+  },
+    {
+    "name": "Pocketing",
+    "definition": "Keeping food in the mouth, cheeks, gums usually due to difficulty swallowing"
+  },
+    {
+    "name": "Progressive Supranuclear Palsy (PSP) (Steele-Richardson-Olszewski syndrome)",
+    "definition": "Uncommon brain disorder that causes issues with walking, balance and eye movements. Caused by deterioration of cells in the motor and thinking parts of the brain."
+  },
+     {
+    "name": "Protein Calorie Malnutrition",
+    "definition": "Protein-Calorie Malnutrition (PCM) refers to a nutritional status in which reduced availability of nutrients leads to changes in body composition and function"
+  },
+     {
+    "name": "Pulmonary Embolism",
+    "definition": "A blood clot gets lodged in an artery in the lunch, blocking blood flow to parts of the lung. Blood clot usually originate in the legs and travel up through the right side of the heart"
+  },
+  
+     {
+    "name": "Pulmonary Fibrosis",
+    "definition": "Lung disease that occurs when lung tissue becomes damaged and scarred which causes the lungs to have difficulty working properly"
+  },
+  
+     {
+    "name": "Sepsis",
+    "definition": "Occurs when chemicals released into the bloodstream to fight the infection trigger inflammatory responses throughout the body. Is a life-threatening complication of an infection."
+  },
+     {
+    "name": "Tachypnea",
+    "definition": "Abnormal rapid breathing"
+  },
+     {
+    "name": "Transient Ischemic Attack (TIA)",
+    "definition": "Produces similar symptoms to a stroke by lasts a few minutes causing no permanent damage."
+  }
+ ]
+}
